@@ -1,0 +1,11 @@
+docs
+cobertura.ser
+project/boot/
+target/
+lib_managed/
+/lib/
+project/plugins/src_managed/
+*.iws
+derby.log
+.idea
+*.iml
