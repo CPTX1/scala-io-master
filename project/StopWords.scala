@@ -1,3 +1,5 @@
+// StopWords.scala
+
 object Stopwords {
 val EN = """a
 a's

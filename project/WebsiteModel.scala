@@ -1,3 +1,5 @@
+// WebsiteModel.scala
+
 import java.nio.charset.Charset
 import sbt.{IO,ExactFilter,PathFinder,PatternFilter}
 import sbt.Path.richFile
